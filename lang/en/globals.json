@@ -1,0 +1,35 @@
+{
+  "phone_number": "Phone Number",
+  "sms": "SMS",
+  "email": "Email",
+  "actions": "Actions",
+  "name": "Name",
+  "username": "Username",
+  "password": "Password",
+  "status": "Status",
+  "id": "ID",
+  "title": "Title",
+  "message": "Message",
+  "select": "Select",
+  "time": "Time",
+  "date_time": "Date & Time",
+  "day": "Day",
+  "showing": "Showing",
+  "total": "Total",
+  "all": "All",
+  "type_to_search": "type to search",
+  "qr_code_pop_up_title": "Guest App QR Code",
+  "dashboard": "Dashboard",
+  "logout": "Logout",
+  "activity_logs": "Activity Logs",
+
+  "week_days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  }
+}

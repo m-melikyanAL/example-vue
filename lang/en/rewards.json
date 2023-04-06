@@ -1,0 +1,19 @@
+{
+  "sidebar_title": "Rewards",
+  "title": "Reward Tiers",
+  "create": "Spend Range",
+  "edit": "Edit Reward",
+  "list": {
+    "amount_from": "Amount From",
+    "amount_to": "To Amount",
+    "value_display": "Rewards Amount",
+    "type": "Type"
+  },
+  "form": {
+    "amount_from": "From",
+    "amount_to": "To",
+    "amount_reward": "Reward"
+  },
+  "delete_message": "Remember, you will lose information of this reward forever",
+  "bulk_delete_message": "Remember, you will lose information of these rewards forever"
+}

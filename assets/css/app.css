@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply font-sans
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply font-bold
+    }
+}
+
+h1.black {
+    @apply text-2xl font-black
+}
+
+h1 {
+    @apply text-lg font-bold
+}
+
+h2 {
+    @apply text-base font-bold
+}
+
+input[type="checkbox"] {
+    @apply grid place-content-center bg-white rounded border border-gray-light w-5 h-5 m-0 translate-y-0 appearance-none
+}
+
+input[type="checkbox"]:checked {
+    @apply border-primary bg-primary
+}
+
+input[type="checkbox"]::before {
+    content: '';
+    @apply absolute rotate-45 transition-opacity border-r-2 border-r-white border-b-2 border-b-white opacity-0 w-[7px] h-[12px] left-[6px] top-[1px]
+}
+
+input[type="checkbox"]:checked::before {
+    @apply opacity-100
+}
+
+.select {
+    @apply text-sm text-black-light text-opacity-70 border-gray-light border rounded-md bg-white min-w-[190px] select-none
+}
+
+table thead th {
+    @apply text-left text-xs text-black-light font-bold
+}
+
+table thead th.light {
+    @apply opacity-70
+}
+
+table tbody td {
+    @apply text-sm text-black-light
+}
+
+table tbody tr {
+    @apply h-[120px]
+}
+
+table tbody td.light {
+    @apply opacity-70
+}
+
+.type {
+    @apply -ml-2.5
+}
+.fade-enter-active,
+.fade-leave-active {
+    transition: all 0.5s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
+    transform: scale(0.94);
+}
+
+.fade-enter {
+    opacity: 0;
+    transform: scale(0.94);
+}
+
+.fade-enter-to {
+    opacity: 1;
+    transform: scale(1);
+}

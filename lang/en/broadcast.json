@@ -1,0 +1,58 @@
+{
+  "select_special": "Select Special",
+  "special_error_message": "Please select Special to broadcast",
+  "select_channel": "Send Using",
+  "channel_error_message": "Please select sending channel",
+  "text_message": "Text Message",
+  "message_placeholder": "Please enter Text Message, this will override actual Special message.",
+
+  "sidebar_title": "Broadcasts",
+  "title": "Broadcast",
+  "types": {
+    "in_app": "In App",
+    "sms": "SMS",
+    "email": "Email"
+  },
+
+  "type": "Broadcast Type",
+  "instant": "Instant",
+  "scheduled": "Scheduled",
+  "frequency": "Frequency",
+  "one_time": "One Time",
+  "daily": "Daily",
+  "weekly": "Weekly",
+  "monthly": "Monthly",
+  "datetime_error": "Please select datetime",
+  "time_error": "Please select time",
+  "day_of_month": "Dat of month",
+  "select_promotion": "Select Promotion",
+  "promotion_error": "Please select Promotion to broadcast",
+  "broadcast_channel_error": "Please select a broadcast channel",
+  "send_to": "Send To",
+  "broadcast_type_error": "Please select broadcast types",
+
+  "previous": "Previous",
+  "reserved": "Reserved",
+  "in_house": "In-House",
+  "visitors": "Visitors",
+
+  "visitors_with_app": "Visitors with App",
+
+  "sms_sent": "SMS sent",
+  "emails_sent": "Emails sent",
+  "push_sent": "Push sent",
+  "enter_ad_title": "Enter Ad title #",
+   "list": {
+     "ad_title": "Ad title",
+     "sent_by": "Sent by",
+     "broadcast_time": "Broadcast Time",
+     "sent": "# Sent",
+     "delivered": "# Delivered",
+     "viewed": "# Viewed",
+     "failed": "# Failed"
+   },
+
+  "delete_message": "Remember, you will lose information of this broadcast forever",
+  "bulk_delete_message": "Remember, you will lose information of these broadcasts forever"
+
+}

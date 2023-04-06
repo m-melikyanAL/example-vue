@@ -1,0 +1,13 @@
+{
+  "title": "My Account",
+  "general": "General",
+  "change_password": "Change Password",
+  "form": {
+    "old_password": "Old Password",
+    "new_password": "New Password",
+    "retry_new_password": "Retry New Password",
+    "phone": "Phone #",
+    "select_avatar": "Select Avatar"
+  }
+
+}

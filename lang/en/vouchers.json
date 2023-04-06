@@ -1,0 +1,26 @@
+{
+  "sidebar_title": "Vouchers",
+  "title": "Vouchers QR Codes",
+  "create": "Create Voucher",
+  "edit": "Edit Voucher",
+  "view": "View Voucher",
+  "list": {
+    "room_no": "Room No",
+    "phone_no": "Phone No",
+    "value_display": "Voucher Value",
+    "expiration_date": "Expiration Date",
+    "tags": "Voucher Tags"
+  },
+  "form": {
+    "title": "Voucher Title",
+    "type": "Voucher Type",
+    "room_no": "Room No",
+    "phone_no": "Mobile #",
+    "value_display": "Voucher Value",
+    "expiration_date": "Expiration Date",
+    "tags": "Voucher Type Tags",
+    "tags_placeholder": "Type & press enter"
+  },
+  "delete_message": "Remember, you will lose information of this voucher forever",
+  "bulk_delete_message": "Remember, you will lose information of these vouchers forever"
+}

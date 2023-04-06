@@ -1,0 +1,22 @@
+{
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "create": "Create",
+  "yes": "Yes",
+  "no": "No",
+  "ok": "OK",
+  "send_sms": "Send SMS",
+  "broadcast": "Broadcast",
+  "import_visitors": "Import Visitors",
+  "send_guest_app": "Send Guest App",
+  "download_xlsx": "Download sample XLSX",
+  "download_csv": "Download sample CSV",
+  "send": "Send",
+  "upload": "Upload",
+  "update": "Update",
+  "edit": "Edit",
+  "sign_in": "Sign in",
+  "download_print": "Download/Print",
+  "download_qr_code": "Download QR Code"
+}

@@ -1,0 +1,12 @@
+{
+  "sidebar_title": "Blacklist",
+  "title": "Blacklisted Phones",
+  "edit": "Edit Blacklisted Phone",
+  "list": {
+    "phone": "Phone",
+    "guest_name": "Guest Name",
+    "reason": "Reason"
+  },
+  "delete_message": "Remember, you will lose information of this blacklisted phone forever",
+  "bulk_delete_message": "Remember, you will lose information of these blacklisted phones forever"
+}

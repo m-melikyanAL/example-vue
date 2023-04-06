@@ -1,0 +1,10 @@
+{
+  "login_form": "Invalid Username and/or Password",
+  "required_message": "The {field} field is required",
+  "numeric_message": "The {field} field should be numeric",
+  "no_longer_message": "The {field} cannot be longer than {max} characters",
+  "at_least_message": "The {field} field must be at least {min} characters",
+  "email_message": "The email field is not a valid email"
+
+
+}

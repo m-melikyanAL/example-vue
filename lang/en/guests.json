@@ -1,0 +1,25 @@
+{
+  "dashboard": "Dashboard",
+  "guests": "Guests",
+  "all_guests": "All Guests",
+  "visitors": "Visitors",
+  "in_house_guests": "In-House Guests",
+  "search_placeholder": "Enter Name Or Mobile #",
+  "email_error": "Please enter a valid email",
+  "ios": "Apple Phone",
+  "other": "Other (Android)",
+  "select_device": "Select Type of Device",
+  "list": {
+    "guest": "Guest",
+    "visitor": "Visitor",
+    "created": "Created",
+    "email_address": "Email Address"
+  },
+  "filter_options": {
+    "all": "All",
+    "has_phone": "Has phone number",
+    "has_email": "Has Email"
+  },
+  "delete_message": "Remember, you will lose information of this guest forever",
+  "bulk_delete_message": "Remember, you will lose information of these guests forever"
+}

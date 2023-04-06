@@ -1,0 +1,18 @@
+{
+  "title": "Digital Assets",
+  "edit": "Edit Asset",
+  "asset": "Asset",
+  "name": "Title",
+  "category": "Category",
+  "tags": "Tags",
+  "delete_message": "Remember, you will lose information of this digital asset forever",
+  "bulk_delete_message": "Remember, you will lose information of these digital assets forever",
+  "select_status": "Select Status",
+  "select_category": "Select Category",
+  "select_tags": "Select Tags",
+  "search_placeholder": "Enter asset title",
+  "errors": {
+    "name": "Title is invalid"
+  },
+  "actions": "Actions"
+}

@@ -1,0 +1,11 @@
+{
+  "heading": "Are you sure?",
+  "confirm_text": "Yes, Delete",
+  "warning": "Warning",
+  "send_sms_message": "Do you want to send sms to {count} guest?",
+  "broadcast_message": "Do you want to broadcast to",
+  "send_link_message": "Do you want to send app link to {count} guest(s). Continue?",
+  "resend_broadcast_message": "Are you sure, you want to resend this selected broadcast?",
+  "confirm_resend": "Yes, resend",
+  "confirm": "Confirm"
+}

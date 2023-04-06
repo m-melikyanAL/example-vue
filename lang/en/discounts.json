@@ -1,0 +1,20 @@
+{
+  "title": "Discounts",
+  "create": "Create Discount",
+  "edit": "Edit Discount",
+  "list": {
+    "code": "Code",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "value_display": "Discount"
+  },
+  "form": {
+    "code": "Code",
+    "discount_status": "Status",
+    "value_display": "Discount",
+    "start_date": "Start Date",
+    "end_date": "End Date"
+  },
+  "delete_message": "Remember, you will lose information of this discount forever",
+  "bulk_delete_message": "Remember, you will lose information of these discounts forever"
+}

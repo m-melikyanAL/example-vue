@@ -1,0 +1,10 @@
+{
+  "title": "Staff",
+  "create": "Create Staff",
+  "edit": "Edit Staff User #",
+  "role": "Role",
+  "search_placeholder": "Enter name or email #",
+  "last_name": "Last Name",
+  "delete_message": "Remember, you will lose information of this user forever",
+  "bulk_delete_message": "Remember, you will lose information of these users forever"
+}
